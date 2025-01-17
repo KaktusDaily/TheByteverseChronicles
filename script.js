@@ -27,4 +27,3 @@ function spinSquare() {
 
 // Start the spinning animation
 spinSquare();
-
